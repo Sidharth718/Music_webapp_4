@@ -1,0 +1,46 @@
+canvas{
+border-radius:40px;
+border: 10px solid white; 
+}
+
+#Note{
+font-size:15px;
+}
+
+#note_distance{
+font-size: 15px;
+}
+
+#footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: lightskyblue; 
+    color: white;
+    padding: 10px;
+    font-size: 30px;   
+    }
+
+    #heading{
+        background-color: lightblue;
+        top: 0;
+        position: fixed;
+        padding: 10px;   
+        width:100%; 
+        }
+
+        #song-name-customization{
+            width: 300px;    
+            height: 50px;
+            font-size:20px ;
+            margin-top:140px;
+            margin-bottom:50px;
+            }
+
+body{
+background-image: url("images.jpg");
+}
+
+#song-name-customization{
+width:400px;
+}
